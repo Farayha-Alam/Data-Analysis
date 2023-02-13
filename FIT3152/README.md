@@ -1,7 +1,7 @@
 # FIT3152
 ## FIT3152_ASSGN_1
 ### Objective:
-First assignment of this unit makes use of R language and its respective libraries to analyse the activity, language use and social interactions in an on-line community. Analyse the metadata and linguistic summary from a real on-line forum and submit the completed report of the findings. 
+First assignment of this unit makes use of R language and its respective libraries to analyse the activity, language use and social interactions in an on-line community. Moreover, to also analyse the metadata and linguistic summary from a real on-line forum and submit the completed report of the findings. 
 ### Skills Acquired:
 Data manipulation, Data visualization, Data preparation.
 
